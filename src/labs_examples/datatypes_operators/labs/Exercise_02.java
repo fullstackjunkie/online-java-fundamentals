@@ -24,6 +24,10 @@ public class Exercise_02 {
     public static void main(String[] args) {
 
         // write code here
-
+        int num = 10;
+        double doubleNum = num;
+        System.out.println(doubleNum);
+        double newNum = 10.5;
+        int newNum2 = (int)doubleNum;
     }
 }

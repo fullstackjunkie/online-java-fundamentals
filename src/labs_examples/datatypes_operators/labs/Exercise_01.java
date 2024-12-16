@@ -17,6 +17,14 @@ public class Exercise_01 {
     public static void main(String[] args) {
 
         // write code here
+        int num = 1;
+        double x = 2.0;
+        float f = 3.0f;
+        char c = 'A';
+        System.out.println(num);
+        System.out.println(x);
+        System.out.println(f);
+        System.out.println(c);
 
     }
 }

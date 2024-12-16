@@ -14,5 +14,11 @@ public class Exercise_06 {
 
         // write code here
 
+        double volume = 3.2;
+        double radius = 3.14;
+        double surfaceArea = 3.14 * radius * radius;
+        System.out.println("Volume is " + volume);
+
+
     }
 }
