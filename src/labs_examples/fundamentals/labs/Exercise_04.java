@@ -16,6 +16,14 @@ public class Exercise_04 {
         System.out.println("int i is: " + i);
 
         // write your code below
+        byte b = 1;
+        short s = 1;
+        long l = 1;
+        double d = 1.0;
+        int i2 = 1;
+        boolean bool = true;
+        char ch = 'a';
+        float f = 1.1f;
 
     }
 
